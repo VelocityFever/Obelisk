@@ -1,3 +1,10 @@
+```javascript
+if (location.protocol != 'https:')
+{
+ location.href = 'https:' + window.location.href.substring(window.location.protocol.length);
+}
+```
+
 # Obelisk
 A fully moddable Discord bot. 
 
