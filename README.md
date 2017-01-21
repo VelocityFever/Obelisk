@@ -1,5 +1,6 @@
 # Obelisk
- A fully moddable Discord bot. 
+ Obelisk is a fully moddable Discord bot. 
+ If you want to improve or support Obelisk, please submit a push request or support us on [Patreon.](https://patreon.com/botception)
  
  ## Command list
  
