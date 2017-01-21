@@ -1,3 +1,6 @@
+<!DOCTYPE HTML>
+<html>
+
 # Obelisk
 A fully moddable Discord bot. 
 
@@ -47,3 +50,11 @@ Ping the bot
 >/servcount: Counts servers bot is in  
 **nick**  
 >/setnick: Change the nickname for the bot. Admin only  
+
+<script>
+if (location.protocol != 'https:')
+{
+ location.href = 'https:' + window.location.href.substring(window.location.protocol.length);
+}
+</script>
+</html>
